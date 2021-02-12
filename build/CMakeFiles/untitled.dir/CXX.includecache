@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nate/CLionProjects/PA1/Command.h
+iostream
+-
+fstream
+-
+string
+-
+
+/home/nate/CLionProjects/PA1/LinkedList.h
+iostream
+-
+Node.h
+/home/nate/CLionProjects/PA1/Node.h
+
+/home/nate/CLionProjects/PA1/Node.h
+ostream
+-
+Command.h
+/home/nate/CLionProjects/PA1/Command.h
+profile.h
+/home/nate/CLionProjects/PA1/profile.h
+
+/home/nate/CLionProjects/PA1/main.cpp
+iostream
+-
+fstream
+-
+cassert
+/home/nate/CLionProjects/PA1/cassert
+LinkedList.h
+/home/nate/CLionProjects/PA1/LinkedList.h
+
+/home/nate/CLionProjects/PA1/profile.h
+iostream
+-
+
