@@ -1,0 +1,3 @@
+/home/nate/CLionProjects/MA1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nate/CLionProjects/MA1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nate/CLionProjects/MA1/cmake-build-debug/CMakeFiles/MA1.dir
